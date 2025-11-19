@@ -55,6 +55,5 @@ Toda la documentación está en el archivo de casos de prueba del repositorio.
 .
 ├─ README.md
 ├─ /screenshots           # Evidencias visuales del proyecto
-├─ /test-cases            # Casos de prueba (Excel o PDF)
-├─ /postman               # Colecciones de Postman
+├─ /test-cases            # Casos de prueba (PDF)
 └─ /bug-summary           # Resumen de fallas encontradas
